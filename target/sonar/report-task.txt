@@ -1,0 +1,5 @@
+projectKey=com.objis.demomaven.test:tax-calculator
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.objis.demomaven.test:tax-calculator
+ceTaskId=AVgKybWhve_D0KzNk7Ku
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVgKybWhve_D0KzNk7Ku
